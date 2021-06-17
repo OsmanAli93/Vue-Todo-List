@@ -21,5 +21,10 @@ npm run serve to start local server
 npm run build
 ```
 
+### Demo
+```
+example of project can be view in this link https://wonderful-pasteur-38d4ce.netlify.app
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
