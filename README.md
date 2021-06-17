@@ -4,10 +4,16 @@
 ```
 npm install
 ```
+```
+npm install json-server
+```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run backend (this might differ on your package.json configuration) 
+```
+```
+npm run serve to start local server
 ```
 
 ### Compiles and minifies for production
