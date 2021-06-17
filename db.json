@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Updated nowdasdasd\n\n",
+      "isDone": true,
+      "isEditable": false
+    },
+    {
+      "id": "2",
+      "text": "Go Shopping now",
+      "isDone": false,
+      "isEditable": false
+    },
+    {
+      "id": "3",
+      "text": "Watch Tutorials",
+      "isDone": false,
+      "isEditable": false
+    }
+  ]
+}
